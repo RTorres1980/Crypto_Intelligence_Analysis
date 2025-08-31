@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project provides an **advanced data-driven analysis of cryptocurrencies** to help identify the most promising digital assets for investment or research purposes. It combines market metrics, historical performance, and technical indicators to rank and visualize the top 50 cryptocurrencies.  
+This project will provides an **advanced data-driven analysis of cryptocurrencies** to help identify the most promising digital assets for investment or research purposes. It combines market metrics, historical performance, and technical indicators to rank and visualize the top 50 cryptocurrencies.  
 
 The analysis focuses on:  
 - Price trends and volatility  
@@ -16,7 +16,6 @@ The analysis focuses on:
 - Correlation and sentiment analysis  
 
 The goal is to offer actionable insights for data engineers, analysts, and crypto enthusiasts looking to make informed decisions.
-
 ---
 
 ## Features
