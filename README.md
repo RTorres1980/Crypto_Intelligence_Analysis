@@ -1,5 +1,7 @@
 # Crypto Intelligence Analysis
 
+![CI](https://github.com/RTorres1980/Crypto_Intelligence_Analysis/actions/workflows/ci.yml/badge.svg)
+
 Ranks the largest cryptocurrencies on recent momentum, risk-adjusted return, trend, drawdown and liquidity, and shows how closely they move together. The analysis is a tested Python module (`crypto_analysis.py`) and a notebook that walks through the results with charts.
 
 ## Method
